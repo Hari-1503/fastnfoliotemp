@@ -1,7 +1,7 @@
 -- import: fastn
 
 -- fastn.package: Hari-1503.github.io/fastnfoliotemp
-favicon: /-/Hari-1503.github.io/<repo_name>/favicon.ico
+favicon: /-/Hari-1503.github.io/Hari-1503/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
